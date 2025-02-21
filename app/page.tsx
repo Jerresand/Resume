@@ -196,6 +196,20 @@ export default function ResumePage() {
                       <span className="block w-2 h-2 mt-1.5 mr-3 rounded-full flex-shrink-0 bg-gradient-to-br from-[#0000FF] to-[#00FFFF]" />
                       <div className="relative group">
                         <a 
+                          href="https://beerpongtourney.com"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="hover:text-blue-600 transition-colors duration-200"
+                        >
+                          Just launched my first project (apart from this website) - beerpongtourney.com
+                        </a>
+                        <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
+                      </div>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="block w-2 h-2 mt-1.5 mr-3 rounded-full flex-shrink-0 bg-gradient-to-br from-[#0000FF] to-[#00FFFF]" />
+                      <div className="relative group">
+                        <a 
                           href="mailto:Gustavjerresand@gmail.com?subject=Quantitative Risk Management&body=Hi Gustav,%0D%0A%0D%0AI saw you're taking a course in Quantitative Risk Management. I'd be really interested to hear about what you're learning and your thoughts on modern risk management approaches.%0D%0A%0D%0ABest regards"
                           className="hover:text-blue-600 transition-colors duration-200"
                         >
@@ -478,10 +492,10 @@ export default function ResumePage() {
                       <span className="block w-2 h-2 mt-1.5 mr-3 rounded-full flex-shrink-0 bg-gradient-to-br from-[#0000FF] to-[#00FFFF]" />
                       <div className="relative group">
                         <a 
-                          href="mailto:Gustavjerresand@gmail.com?subject=Interior Design Chat&body=Hey Gustav,%0D%0A%0D%0AI saw your interest in interior design! Would love to exchange ideas and inspiration sometime.%0D%0A%0D%0ABest regards"
+                          href="mailto:Gustavjerresand@gmail.com?subject=Design Chat&body=Hey Gustav,%0D%0A%0D%0AI saw your interest in design! Would love to exchange ideas and inspiration sometime.%0D%0A%0D%0ABest regards"
                           className="hover:text-blue-600 transition-colors duration-200"
                         >
-                          Interior Design
+                          Design
                         </a>
                         <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
                       </div>
