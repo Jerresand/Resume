@@ -127,7 +127,7 @@ export default function ResumePage() {
                 company="Quartr"
                 position="Data Quality Analyst"
                 period="Aug 2024–Present"
-                details="Worked with data from the most followed companies. Utilized advanced Excel and AI tools to optimize workflows."
+                details="Working with data from the most followed companies. Utilizing advanced Excel and AI tools to optimize workflows."
                 url="https://quartr.com/"
               />
               <ExperienceItem

@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Gustav Jerresand',
   description: 'Personal website of Gustav Jerresand',
   generator: 'v0.dev',
+  icons: {
+    icon: '/icon2.png',
+  },
 }
 
 export default function RootLayout({
