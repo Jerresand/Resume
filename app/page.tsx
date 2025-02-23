@@ -119,7 +119,7 @@ export default function ResumePage() {
             </div>
 
               <h2 className="text-2xl font-bold mt-8 mb-4 relative group w-fit">
-                Professional Experience
+                Professional Experiences & Extracurricular Activities
                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
               </h2>
             <div className="space-y-4">
