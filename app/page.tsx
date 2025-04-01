@@ -188,6 +188,7 @@ export default function ResumePage() {
                           className="hover:text-blue-600 transition-colors duration-200"
                         >
                           Teaching myself Next.JS, SQL and overall web development
+                        
                         </a>
                         <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
                       </div>
@@ -196,24 +197,10 @@ export default function ResumePage() {
                       <span className="block w-2 h-2 mt-1.5 mr-3 rounded-full flex-shrink-0 bg-gradient-to-br from-[#0000FF] to-[#00FFFF]" />
                       <div className="relative group">
                         <a 
-                          href="https://beerpongtourney.com"
-                          target="_blank"
-                          rel="noopener noreferrer"
+                          href="mailto:Gustavjerresand@gmail.com?subject=Innovation and Finance Courses&body=Hi Gustav,%0D%0A%0D%0AI saw you're taking courses in innovation and finance. I'd love to hear about what you're learning and your thoughts on these subjects.%0D%0A%0D%0ABest regards"
                           className="hover:text-blue-600 transition-colors duration-200"
                         >
-                          Just launched my first project (apart from this website) - beerpongtourney.com
-                        </a>
-                        <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
-                      </div>
-                    </li>
-                    <li className="flex items-start">
-                      <span className="block w-2 h-2 mt-1.5 mr-3 rounded-full flex-shrink-0 bg-gradient-to-br from-[#0000FF] to-[#00FFFF]" />
-                      <div className="relative group">
-                        <a 
-                          href="mailto:Gustavjerresand@gmail.com?subject=Quantitative Risk Management&body=Hi Gustav,%0D%0A%0D%0AI saw you're taking a course in Quantitative Risk Management. I'd be really interested to hear about what you're learning and your thoughts on modern risk management approaches.%0D%0A%0D%0ABest regards"
-                          className="hover:text-blue-600 transition-colors duration-200"
-                        >
-                          Undertaking a course in Quantitative Risk Management
+                          Currently taking several courses focused on Innovation and Finance
                         </a>
                         <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-[#0000FF] to-[#00FFFF] group-hover:w-full transition-all duration-500" />
                       </div>
