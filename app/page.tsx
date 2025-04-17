@@ -62,7 +62,7 @@ export default function ResumePage() {
                       Gustavjerresand@gmail.com
                     </a>
                     <a 
-                      href="https://linkedin.com/in/gustavjerresand"
+                      href="https://www.linkedin.com/in/gustav-jerresand-859a27158/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center hover:text-blue-600 transition-colors duration-200"
